@@ -1,0 +1,102 @@
+.gallery-section{
+    background: #22161C;
+    padding-top: 3rem;
+}
+
+.gallery-section .gallery {
+    width: 80vw;
+    margin: 0 auto;
+    padding: 2rem 0;
+    color: white;
+}
+
+.gallery .container h1 {
+    color: #A37C82;
+    font-weight: bold;
+}
+
+.gallery .container h1::before {
+    content: '';
+    background: #E2AE6C;
+    height: 5px;
+    width: 270px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: translateY(60px);
+}
+
+.gallery .container h1::after {
+    content: '';
+    background: #E2AE6C;
+    height: 7px;
+    width: 164px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: translateY(6px)
+}
+.making-fluid {
+    padding: 20px;
+}
+.making-fluid h4{
+    margin: 1rem 0;
+    font-size: 1.6rem;
+    text-align: center;
+    color: #E2AE6C;
+}
+
+.making-fluid img {
+    border-radius: 8px;
+    width: 300px;
+    height: 200px;
+}
+
+.gallery .container .row {
+    padding-top: 30px;
+}
+
+
+.gallery .btn {
+    box-shadow: none;
+    background: #6E304B;
+    color: #E2AE6C;
+    padding: 8px 25px;
+    border-radius: 5px;
+    border: none;
+    background-image: #51F089;
+}
+
+.making-fluid p {
+    text-align: justify;
+    font-size: 1rem;
+
+
+}
+
+#about-us {
+    padding-top: 100px;
+    padding-bottom: 200px;
+    background: #edf5f3;
+    ;
+}
+
+.about-title {
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 8%;
+
+}
+
+.about-uss ul li {
+    padding: 9px;
+}
+
+.about-uss {
+    padding-top: 10px;
+}
+
+.change {
+    margin-top: -50px;
+    margin-bottom: 100px;
+}

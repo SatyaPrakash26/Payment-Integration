@@ -1,0 +1,113 @@
+.about-component{
+    background: #6E304B;
+    width: 100vw;
+    height: 100%;
+    padding-top: 3rem;
+}
+
+.about-component .about-us{
+    width: 90vw;
+    margin: 0rem auto;
+    font-size:1.2rem;
+    padding: 40px 80px;
+}
+
+.about-us h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+    color: #F2F1EF;
+}
+
+.about-us h1::before {
+    content: '';
+    background: #E2AE6C;
+    height: 5px;
+    width: 270px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: translateY(71px);
+}
+
+.about-us h1::after {
+    content: '';
+    background: #E2AE6C;
+    height:9px;
+    width: 164px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    transform: translateY(6px)
+}
+
+.about-content{
+    width: 75vw;
+    height: 50vh;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 3rem;
+    color: white;
+    padding-top: 2rem;
+    border-bottom: 4px solid white;
+}
+
+.about-content h3 {
+    font-weight: 500;
+    text-align: center;
+    color:#E2AE6C;
+    text-transform: uppercase;
+    margin-bottom: 1.4rem;
+}
+
+.about-content p {
+    height: 16rem;
+    text-align: justify ;
+    padding:1rem 0.5rem;
+    font-size: 1rem;
+}
+
+.project{
+    color: white;
+    margin-top: 3rem;
+}
+
+.project .title{
+    width: 50rem;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.title img{
+    height: 10rem;
+    animation: spinner 15s infinite linear;
+}
+
+.title  h2{
+    display: flex;
+    align-items: center;
+    font-size: 3rem;
+    color: #E2AE6C;
+}
+.project .project-content{
+    margin-top: 2rem;
+    width: 69vw;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+.project-content h3{
+    color: #E2AE6C;
+}
+
+@keyframes spinner{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
