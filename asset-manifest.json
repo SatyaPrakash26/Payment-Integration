@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Payment-Integration/static/css/main.2779bbd8.chunk.css",
+    "main.js": "/Payment-Integration/static/js/main.8742af31.chunk.js",
+    "main.js.map": "/Payment-Integration/static/js/main.8742af31.chunk.js.map",
+    "runtime-main.js": "/Payment-Integration/static/js/runtime-main.f824c3db.js",
+    "runtime-main.js.map": "/Payment-Integration/static/js/runtime-main.f824c3db.js.map",
+    "static/css/2.658248ec.chunk.css": "/Payment-Integration/static/css/2.658248ec.chunk.css",
+    "static/js/2.cb78778d.chunk.js": "/Payment-Integration/static/js/2.cb78778d.chunk.js",
+    "static/js/2.cb78778d.chunk.js.map": "/Payment-Integration/static/js/2.cb78778d.chunk.js.map",
+    "static/js/3.d39bfd8b.chunk.js": "/Payment-Integration/static/js/3.d39bfd8b.chunk.js",
+    "static/js/3.d39bfd8b.chunk.js.map": "/Payment-Integration/static/js/3.d39bfd8b.chunk.js.map",
+    "index.html": "/Payment-Integration/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/Payment-Integration/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.2779bbd8.chunk.css.map": "/Payment-Integration/static/css/main.2779bbd8.chunk.css.map",
+    "static/js/2.cb78778d.chunk.js.LICENSE.txt": "/Payment-Integration/static/js/2.cb78778d.chunk.js.LICENSE.txt",
+    "static/media/help1.2ccab60a.jpg": "/Payment-Integration/static/media/help1.2ccab60a.jpg",
+    "static/media/help2.1faf131b.jpg": "/Payment-Integration/static/media/help2.1faf131b.jpg",
+    "static/media/help3.d3fd1627.jpg": "/Payment-Integration/static/media/help3.d3fd1627.jpg",
+    "static/media/help4.5be08864.jpg": "/Payment-Integration/static/media/help4.5be08864.jpg",
+    "static/media/help5.ec80c29a.jpg": "/Payment-Integration/static/media/help5.ec80c29a.jpg",
+    "static/media/help7.172746d0.jpg": "/Payment-Integration/static/media/help7.172746d0.jpg",
+    "static/media/logo.dad24ccb.png": "/Payment-Integration/static/media/logo.dad24ccb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f824c3db.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.cb78778d.chunk.js",
+    "static/css/main.2779bbd8.chunk.css",
+    "static/js/main.8742af31.chunk.js"
+  ]
+}
